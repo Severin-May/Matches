@@ -1,0 +1,17 @@
+{
+    "teamdi1": {
+        "teamid": "teamid1",
+        "name": "FC Barcelona",
+        "city": "Barcelona!"
+    },
+    "teamdi2": {
+        "teamid": "teamid2",
+        "name": "Real Mardrid CF",
+        "city": "Mardrid!"
+    },
+    "teamdi3": {
+        "teamid": "teamid3",
+        "name": "Juventus FC",
+        "city": "Turin!"
+    }
+}

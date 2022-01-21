@@ -1,0 +1,98 @@
+body {
+    background-color: lightblue;
+}
+
+table {
+	background-size: cover;
+	border-collapse: collapse;
+    border: solid black;
+}
+table caption {
+	font-size: larger;
+	padding: 1em;
+}
+table td {
+    border: solid black;
+	padding: .5em;
+}
+table th, tr {
+    border: solid black;
+}
+
+input + span {
+    font-size: smaller;
+    color: red;
+}
+
+th, td {
+    padding: 15px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+tr:hover {background-color: rgb(68, 80, 248);}
+
+/* tr:nth-child(even) {background-color: #f2f2f2;}  */
+
+th {
+    background-color: #1739ac;
+    color: white;
+}
+
+th {
+    text-align: left;
+}
+
+.error {
+    font-size: smaller;
+    color: red;
+}
+
+
+.topnav {
+    background-color: rgb(152, 187, 233);
+    overflow: hidden;
+  }
+  
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+  
+.topnav a:hover {
+    background-color: rgb(210, 232, 235);
+    color: black;
+}
+  
+.topnav a.active {
+    background-color: #1739ac;
+    color: white;
+}
+
+ul {
+    padding: 20px;
+}
+
+a:link {
+    color: red;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: green;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+  }
+  
